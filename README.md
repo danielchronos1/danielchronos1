@@ -1,7 +1,9 @@
+![ClipWindowsGIF](https://github.com/danielchronos1/danielchronos1/assets/129501225/2b3daaac-e0a1-4efb-9d64-5b4e3e6d7686)
+
+
 # I'm Daniel
 
-## Hello, world! ![HandGIF](https://github.com/danielchronos1/danielchronos1/assets/129501225/6acdcc8b-ff2e-4bb2-8abf-11e783e92173)
-
+## Hello, world! 
 
 I'm a junior frontend developer with a passion for crafting user-friendly and visually appealing web applications. I thrive on turning ideas into reality using my coding skills and creativity.
 
