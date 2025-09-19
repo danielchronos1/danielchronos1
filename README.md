@@ -3,7 +3,7 @@
 # Hello, world! 👋  
 
 I’m a fullstack developer who loves turning ideas into real web apps 🌐  
-From smooth, user-friendly interfaces 🎨 to solid backend logic ⚙️ — I enjoy making projects that feel clean, functional, and fun to use.  
+From smooth, user-friendly interfaces 🎨 to solid backend logic ⚙️ - I enjoy making projects that feel clean, functional, and fun to use.  
 
 ## 💻 Tech Stack  
 
